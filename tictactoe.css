@@ -1,0 +1,78 @@
+.main-title {
+  padding-top: 20px;
+  color: blue;
+  text-shadow: -2px 2px 0px #000000;
+  font-size: 50px;
+  text-align: center;
+}
+
+.sub-title {
+  padding-bottom: 20px;
+  color: teal;
+  text-shadow: -2px 2px 0px #808080;
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  padding-bottom: 30px;
+  font-size: 20px;
+  font-decoration: bold;
+}
+
+.board {
+  height: 115px;
+  font-size: 65px;
+  padding-top: 10px;
+  text-align: center;
+  color: red;
+  text-shadow: -3px 0px #000000;
+}
+
+.board:hover {
+  cursor: pointer;
+}
+
+#A1 {
+  border-right: solid 7px black;
+  border-bottom: solid 7px black;
+}
+
+#A2 {
+  border-right: solid 7px black;
+  border-bottom: solid 7px black;
+}
+
+#A3 {
+  border-right: solid 7px black;
+}
+
+#B1 {
+  border-right: solid 7px black;
+  border-bottom: solid 7px black;
+}
+
+#B2 {
+  border-right: solid 7px black;
+  border-bottom: solid 7px black;
+}
+
+#B3 {
+  border-right: solid 7px black;
+}
+
+#C1 {
+  border-bottom: solid 7px black;
+}
+
+#C2 {
+  border-bottom: solid 7px black;
+}
+
+.center {
+  margin-top: 75px;
+  text-align: center;
+  display: inline-block ;
+  float: none;
+}
