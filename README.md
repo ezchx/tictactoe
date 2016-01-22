@@ -2,7 +2,6 @@
 
 Free Code Camp Tic-Tac_Toe project.
 
-Primarily JavaScript with HTML and CSS.
-
 Tic-Tac-Toe never gets boring right???
 
+JavaScript, HTML, and CSS.
